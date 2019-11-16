@@ -10,3 +10,5 @@ Estado atual
 
 No momento, o estatuto está na fase de idealização. Precisamos montar um
 rascunho e, dadas boas revisões, aprová-lo.
+
+Você pode ver o estatuto [neste link](./estatuto.md)
